@@ -3,10 +3,10 @@ A simple discord bot
 
 bot commands start with '.'
 
-list of commands:
-  .ping\n
-    shows latency of user\n
-  .roll\n
+list of commands
+  .ping
+    shows latency of user
+  .roll
     rolls a die in NdN format
   .choose
     chooses option from user
